@@ -1,0 +1,341 @@
+button {
+	border: none;
+	text-decoration: none;
+	display: inline-block;
+	text-align: center;
+	padding: 10px 15px;
+	radius: 10px;
+	background-color: Transparent;
+	font-weight: 900;
+}
+
+.buttons {
+    background-color: #008CBA; /* Blue */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+		radius: 100px;
+}
+#all {
+	background: white;
+	text-align: center;
+}
+/* #value {
+	background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeskhoLoQjkEjGHL8GjREcEIugr-sXNWgyLb0-CK64gy75RMTQ_A');
+	background-size: cover;
+	font-weight: 20;
+	font-size: 40;
+	color: lightblue;
+} */
+.enter:hover {
+  background: #3cb0fd;
+  text-decoration: none;
+}
+.enter {
+    background-color: lightblue; /* Green */
+		background-image: url('https://vetstreet.brightspotcdn.com/dims4/default/a1a90c7/2147483647/thumbnail/180x180/quality/90/?url=https%3A%2F%2Fvetstreet-brightspot.s3.amazonaws.com%2F0d%2Ff2e4c0b3a611e092fe0050568d634f%2Ffile%2Fhub-cats-senior.jpg');
+		background-size: cover;
+		background-repeat: no-repeat;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+		width: 100;
+		height: 100;
+}
+.clear:hover {
+  background: #3cb0fd;
+  text-decoration: none;
+}
+.clear {
+    background-color: lightblue;
+		background-image: url('https://images.pexels.com/photos/104827/cat-pet-animal-domestic-104827.jpeg?auto=compress&cs=tinysrgb&h=350');
+		background-size: cover;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+		width: 100;
+		height: 100;
+}
+.cat1:hover {
+  background: #3cb0fd;
+  text-decoration: none;
+}
+.cat1 {
+    background-color: lightblue; /* Green */
+		background-image: url('https://i.pinimg.com/originals/81/6d/a5/816da533638aee63cfbd315ea24cccbd.jpg');
+		background-size: cover;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+		width: 100;
+		height: 100;
+}
+.cat2:hover {
+  background: #3cb0fd;
+  text-decoration: none;
+}
+.cat2 {
+    background-color: purple; /* Green */
+		background-image: url('https://www.shelterluv.com/sites/default/files/animal_pics/464/2016/11/25/22/20161125220040.png');
+		background-size: cover;
+		background-repeat: no-repeat;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+		width: 100;
+		height: 100;
+}
+.cat3:hover {
+  background: #3cb0fd;
+  text-decoration: none;
+}
+.cat3 {
+    background-color: hotpink; /* Green */
+		background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgUWqE2k2zZT8DOigeky6Y_eUdNephWut9hCK5LmrLPTQtOEmO1w');
+		background-size: cover;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+		width: 100;
+		height: 100;
+}
+.cat4:hover {
+  background: #3cb0fd;
+  text-decoration: none;
+}
+.cat4 {
+    background-color: lightblue; /* Green */
+		background-image: url('http://www.catster.com/wp-content/uploads/2017/10/A-kitten-meowing-with-his-mouth-open.jpg');
+		background-size: cover;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+		width: 100;
+		height: 100;
+}
+.cat5:hover {
+  background: #3cb0fd;
+  text-decoration: none;
+}
+.cat5 {
+    background-color: purple; /* Green */
+		background-image: url('http://sites.psu.edu/siowfa15/wp-content/uploads/sites/29639/2015/10/cat.jpg');
+		background-size: cover;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+		width: 100;
+		height: 100;
+}
+.cat6:hover {
+  background: #3cb0fd;
+  text-decoration: none;
+}
+.cat6 {
+    background-color: hotpink; /* Green */
+		background-image: url('https://cdn.shopify.com/s/files/1/0673/5325/files/LadyDinahs_Cat_Cafe_Alice-Block_2048x.jpg?v=1517059999');
+		background-size: cover;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+		width: 100;
+		height: 100;
+}
+.cat7:hover {
+  background: #3cb0fd;
+  text-decoration: none;
+}
+.cat7 {
+    background-color: lightblue; /* Green */
+		background-image: url('https://d3n8a8pro7vhmx.cloudfront.net/taxpayers/pages/679/attachments/original/1499663166/4-ways-cheer-up-depressed-cat.jpg?1499663166');
+		background-size: cover;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+		width: 100;
+		height: 100;
+}
+.cat8:hover {
+  background: #3cb0fd;
+  text-decoration: none;
+}
+.cat8 {
+    background-color: purple; /* Green */
+		background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGrfTCvheBZ9eZo4utqqfXovSEvE4FLknnqTd9jnqUcnDnAbMm');
+		background-size: cover;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+		width: 100;
+		height: 100;
+}
+.cat9:hover {
+  background: #3cb0fd;
+  text-decoration: none;
+}
+.cat9 {
+    background-color: hotpink; /* Green */
+		background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd3YE0uU_ymJjzjpouDtcsGZmpyzQ8nLEkZVBsT5f5qKsAmD14');
+		background-size: cover;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+		width: 100;
+		height: 100;
+}
+.cat0:hover {
+  background: #3cb0fd;
+  text-decoration: none;
+}
+.cat0 {
+    background-color: purple; /* Green */
+		background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZCGyzQCpBWIboSErgUWkpGjp6NnHDRHNukRLST7JZ484gOrrN');
+		background-size: cover;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+		width: 100;
+		height: 100;
+}
+.plus:hover {
+  background: #3cb0fd;
+  text-decoration: none;
+}
+.plus {
+    background-color: lightblue; /* Green */
+		background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeeovAsTTURCfAguACHiCcXJrLpSOBaNxUT4DfYO7nvs8NCx3b');
+		background-size: cover;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+		width: 100;
+		height: 100;
+}
+.minus:hover {
+  background: #3cb0fd;
+  text-decoration: none;
+}
+.minus {
+    background-color: hotpink; /* Green */
+		background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdDYlKoW9Oz5ob1hZQPDrvU4zBimcHLXLuMVtxiQURHtvoEe07');
+		background-size: cover;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+		width: 100;
+		height: 100;
+}
+.multiplication:hover {
+  background: #3cb0fd;
+  text-decoration: none;
+}
+.multiplication {
+    background-color: lightblue; /* Green */
+		background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGpFC_zCdlan3sTYx7jCKSud97VxEtSC1uSsMBYScN07-km4jjQQ');
+		background-size: cover;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+		width: 100;
+		height: 100;
+}
+.division:hover {
+  background: #3cb0fd;
+  text-decoration: none;
+}
+.division {
+    background-color: purple; /* Green */
+		background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX5WA2du9lrjag5YptApqFnZTMXlMXFB1GDidaUkqaI-4sR2SC');
+		background-size: cover;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+		width: 100;
+		height: 100;
+}
+.this:hover {
+  background: #3cb0fd;
+  text-decoration: none;
+}
+.this {
+    background-color: hotpink; /* Green */
+		background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRznm6KvQSjI0nuMG270-aviNo0VQYuAkhKUlwJoJKTpa0cvmoj');
+		background-size: cover;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+		width: 100;
+		height: 100;
+}
