@@ -7,4 +7,4 @@ You're welcome, Internet. <br />
 With Love, <br />
 -Samuel Reams
 <br />
-Also see live running version here: https://kittenclub.github.io/Cat-culator/
+Also see live running version here: https://spronkoid.github.io/Cat-culator/
